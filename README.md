@@ -1,17 +1,12 @@
-### Hi there <img src="https://github.com/VijayPrakashReddy-k/VijayPrakashReddy-k/blob/master/Images/wave.gif" width="25px">
-
+Hi there <img src="https://github.com/VijayPrakashReddy-k/VijayPrakashReddy-k/blob/master/Images/wave.gif" width="25px">
 <h3>I'm VijayPrakash! <img src="https://github.com/VijayPrakashReddy-k/VijayPrakashReddy-k/blob/master/Images/logo.gif" width="50"></h3>
+I am currently doing my master's at the University of Central Florida in Computer Vision.
 
+My interests are in autonomous driving, computer vision with deep learning, and NLP. I also like to follow the latest research works happening in the Computer Vision and NLP domain.
 
-I am currently doing my master's at the [University of Central Florida](https://www.ucf.edu/) in Computer Vision.
+Besides work, I like Cricket 🏏, Table Tennis 🏓, cooking 🥘, cycling 🚴‍♀️, and Movies 🎥.
 
-My interests are in autonomous driving and computer vision with deep learning and NLP. I also like to follow latest research works happening in the Computer Vision and NLP domain.
-
-Besides work, I like Cricket 🏏, Table Tennis 🏓, cooking 🥘 , cycling 🚴‍♀️ , Movies 🎥.
-
-
-<img src="https://github.com/VijayPrakashReddy-k/VijayPrakashReddy-k/blob/master/Images/people.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect with you and can reach me through any plotform below!</b> :)</em>
-
+<img src="https://github.com/VijayPrakashReddy-k/VijayPrakashReddy-k/blob/master/Images/people.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect with you and you can reach me through any platform below!</b> :)</em>
 <h3>Contact</h3>
 <p>
   <a href="https://twitter.com/K_VijayPrakash" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
@@ -24,19 +19,25 @@ Besides work, I like Cricket 🏏, Table Tennis 🏓, cooking 🥘 , cycling �
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```python
-const Vijay = {
-    pronouns: "He" | "Him",
-    code: ["Python", "Java", "Javascript"],
-    askMeAbout: ["ML", "Autonomous Cars", "Computer Vision", "Photography"],
-    technologies: {
-        databases: ["Mongo", "MySql", "Postgre"],
-        BI tools: ["Tableau", "Power BI"],
-        data warehouses : ["Snowflake"],
-        Cloud : ["AWS","Azure"],
-        misc: ["Pyspark","Kafka", "open-cv"]
-        },
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+public class Mohith
+{
+    public string Pronouns => "He/Him";
+    public string[] Code => new[] { "C#", "ASP.NET", "Javascript" };
+    public string[] AskMeAbout => new[] { ".NET Development", "Cooking", "Photography" };
+    
+    public Technologies Technologies => new Technologies();
+
+    public string FunFact => "There are two ways to write error-free programs; only the third one works";
+}
+
+public class Technologies
+{
+    public string[] Databases => new[] { "SQL Server", "MySql", "PostgreSQL" };
+    public string[] BiTools => new[] { "Tableau", "Power BI" };
+    public string[] Cloud => new[] { "Azure", "AWS" };
+    public string[] Misc => new[] { "Entity Framework", "Blazor", "OpenCV" };
+}
+
 ```
 
 <h3 align="left">Languages & Tools:</h3>
