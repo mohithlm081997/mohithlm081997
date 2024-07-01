@@ -6,7 +6,7 @@ My interests are in autonomous driving, computer vision with deep learning, and 
 
 Besides work, I like Cricket 🏏, Table Tennis 🏓, cooking 🥘, cycling 🚴‍♀️, and Movies 🎥.
 
-<img src="https://github.com/VijayPrakashReddy-k/VijayPrakashReddy-k/blob/master/Images/people.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect with you and you can reach me through any platform below!</b> :)</em>
+<img src="https://github.com/mohithlm081997/mohithlm97/blob/main/4q43.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect with you and you can reach me through any platform below!</b> :)</em>
 <h3>Contact</h3>
 <p>
   <a href="https://twitter.com/K_VijayPrakash" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
