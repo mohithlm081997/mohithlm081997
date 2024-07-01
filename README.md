@@ -1,4 +1,4 @@
-Hi there <img src="https://github.com/VijayPrakashReddy-k/VijayPrakashReddy-k/blob/master/Images/wave.gif" width="25px">
+Hi there <img src="https://github.com/mohithlm081997/mohithlm97/blob/main/6ZFR.gif" width="25px">
 <h3>I'm Mohith Lingaraj Mulimani! <img src="https://github.com/VijayPrakashReddy-k/VijayPrakashReddy-k/blob/master/Images/logo.gif" width="50"></h3>
 I am currently doing my master's at the University of Central Florida in Computer Science.
 
