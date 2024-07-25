@@ -19,7 +19,7 @@ Connect with me:
   <a href="mailto:mo533247@ucf.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-### <img src="https://github.com/mohithlm081997/mohithlm97/blob/main/Bond.gif" width="150"> A little more about me...  
+### <img src="https://github.com/mohithlm081997/mohithlm97/blob/main/giphy1-ezgif.com-webp-to-gif-converter.gif" width="130"> A little more about me...  
 
 ```python
 public class Mohith
