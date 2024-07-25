@@ -1,20 +1,21 @@
 <img src="https://github.com/mohithlm081997/mohithlm97/blob/main/6ZFR.gif" width="100px">
-Hi there,
-<h3>I'm Mohith Lingaraj Mulimani! <img src="https://github.com/VijayPrakashReddy-k/VijayPrakashReddy-k/blob/master/Images/logo.gif" width="50"></h3>
-I am currently doing my master's at the University of Central Florida in Computer Science.
+Hey there! 👋 I'm Mohith Lingaraj Mulimani!
+<img src="https://github.com/VijayPrakashReddy-k/VijayPrakashReddy-k/blob/master/Images/logo.gif" width="50">
+I'm currently pursuing a Master’s in Computer Science at the University of Central Florida, where I blend my love for .NET frameworks with a dash of machine learning magic.
 
-My interests are in autonomous driving, computer vision with deep learning, and NLP. I also like to follow the latest research works happening in the Computer Vision and NLP domain.
+🖥️ Microsoft Enthusiast: As a fervent advocate for all things Microsoft, I thrive on leveraging ASP.NET, C#, and Azure to build scalable, high-performance applications. My academic and professional paths have been shaped by the powerful tools and frameworks developed under the Microsoft umbrella.
 
-Besides work, I like Cricket 🏏, Table Tennis 🏓, cooking 🥘, cycling 🚴‍♀️, and Movies 🎥.
+🚗 Interests: Besides my zeal for Microsoft technologies, I'm deeply into autonomous driving, where I combine computer vision and NLP to enable machines to understand and navigate the world. It's about making the future of transportation smarter and safer!
 
-<img src="https://github.com/mohithlm081997/mohithlm97/blob/main/4q43.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect with you and you can reach me through any platform below!</b> :)</em>
-<h3>Contact</h3>
+🏏 Life Beyond Code: Off the screen, you can find me engaged in cricket, mastering the art of the spin in table tennis, experimenting with new recipes, enjoying a scenic cycle ride, or catching the latest blockbuster. Diversity in interests makes life exciting!
+
+🤖 Fun Interaction: I enjoy connecting with fellow tech aficionados as much as I enjoy debugging a complex piece of code; ready to chat about the latest in technology or exchange a programming pun or two.
+
+Connect with me:
 <p>
-  <a href="https://twitter.com/K_VijayPrakash" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/vijayprakash-reddy-kovuru-ab3740166/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.vijayprakashk.com/" target="_blank"> <img alt="Blog" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
-  <a href="mailto:kovuru.vijayprakash@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-     </a>
+  <a href="https://twitter.com/mohithlm" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohithlm" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mo533247@ucf.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -41,11 +42,10 @@ public class Technologies
 
 ```
 
-<h3 align="left">Languages & Tools:</h3>
+Languages & Tools I wield:
 <p align="left">
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" /> </a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"> <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
-<a href="https://azure.microsoft.com/" target="_blank"> <img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
-<a href="https://www.docker.com/" target="_blank"> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
-
+<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" /></a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
+<a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
 </p>
