@@ -1,7 +1,8 @@
 <img src="https://github.com/mohithlm081997/mohithlm97/blob/main/6ZFR.gif" width="100px">
 Hey there! 👋 I'm Mohith Lingaraj Mulimani!
 <img src="https://github.com/VijayPrakashReddy-k/VijayPrakashReddy-k/blob/master/Images/logo.gif" width="50">
-I'm currently pursuing a Master’s in Computer Science at the University of Central Florida, where I blend my love for .NET frameworks with a dash of machine learning magic.
+
+I've recently completed my Master's in Computer Science at the University of Central Florida. There, I mastered the .NET frameworks and infused my projects with a dash of machine learning magic, merging rigorous academic concepts with practical, real-world applications.
 
 🖥️ Microsoft Enthusiast: As a fervent advocate for all things Microsoft, I thrive on leveraging ASP.NET, C#, and Azure to build scalable, high-performance applications. My academic and professional paths have been shaped by the powerful tools and frameworks developed under the Microsoft umbrella.
 
