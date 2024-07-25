@@ -1,6 +1,5 @@
 <img src="https://github.com/mohithlm081997/mohithlm97/blob/main/6ZFR.gif" width="100px">
 Hey there! 👋 I'm Mohith Lingaraj Mulimani!
-<img src="https://github.com/VijayPrakashReddy-k/VijayPrakashReddy-k/blob/master/Images/logo.gif" width="50">
 
 I've recently completed my Master's in Computer Science at the University of Central Florida. There, I mastered the .NET frameworks and infused my projects with a dash of machine learning magic, merging rigorous academic concepts with practical, real-world applications.
 
